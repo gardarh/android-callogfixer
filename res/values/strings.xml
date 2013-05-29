@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">CallLogFixer</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_list_spurious">List spurious callog records</string>
+    <string name="button_create">Create a spurious callog record (calltype 9)</string>
+    <string name="button_delete">Delete all spurious callog records</string>
+    
+</resources>
